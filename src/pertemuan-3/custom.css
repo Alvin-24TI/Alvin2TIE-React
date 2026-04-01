@@ -1,0 +1,54 @@
+/* Styling untuk keseluruhan halaman - Tema Reina Mishima */
+body {
+    font-family: 'Montserrat', 'Arial', sans-serif; /* Font yang lebih tegas dan modern */
+    background-color: #0d0b14; /* Latar belakang hitam pekat dengan hint ungu */
+    color: #e0e0e0; /* Teks abu-abu terang agar kontras */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container utama */
+.card {
+    max-width: 600px;
+    margin: 20px auto;
+    background: #1a1625; /* Warna ungu-abu gelap untuk kartu */
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #3a2a54; /* Border ungu halus */
+    border-bottom: 4px solid #8a2be2; /* Aksen garis ungu elektrik di bawah */
+    box-shadow: 0 8px 16px rgba(138, 43, 226, 0.25); /* Efek glow petir ungu */
+}
+
+/* Header utama */
+h1 {
+    color: #d8b4fe; /* Ungu terang */
+    text-align: center;
+    text-transform: uppercase; /* Karakter kuat dan dominan */
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px rgba(138, 43, 226, 0.6); /* Efek bercahaya ala petir Mishima */
+}
+
+/* Paragraf */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #cccccc;
+}
+
+/* Garis pemisah */
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #8a2be2, transparent); /* Gradasi ungu elektrik */
+    margin: 15px 0;
+}
+
+/* Greeting */
+small {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    color: #ffd700; /* Sentuhan aksen emas khas jaket Reina / Mishima */
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
