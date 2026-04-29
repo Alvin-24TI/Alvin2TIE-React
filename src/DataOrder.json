@@ -1,0 +1,212 @@
+[
+  {
+    "OrderID": "ORD-1001",
+    "CustomerName": "Bambang Hermawan",
+    "Status": "Completed",
+    "TotalPrice": 792549,
+    "OrderDate": "2023-10-06"
+  },
+  {
+    "OrderID": "ORD-1002",
+    "CustomerName": "Budi Santoso",
+    "Status": "Completed",
+    "TotalPrice": 1636188,
+    "OrderDate": "2023-07-08"
+  },
+  {
+    "OrderID": "ORD-1003",
+    "CustomerName": "Doni Salmanan",
+    "Status": "Pending",
+    "TotalPrice": 2204524,
+    "OrderDate": "2023-12-21"
+  },
+  {
+    "OrderID": "ORD-1004",
+    "CustomerName": "Rina Permata",
+    "Status": "Cancelled",
+    "TotalPrice": 542300,
+    "OrderDate": "2023-05-15"
+  },
+  {
+    "OrderID": "ORD-1005",
+    "CustomerName": "Siti Aminah",
+    "Status": "Pending",
+    "TotalPrice": 1250000,
+    "OrderDate": "2023-08-22"
+  },
+  {
+    "OrderID": "ORD-1006",
+    "CustomerName": "Andi Wijaya",
+    "Status": "Completed",
+    "TotalPrice": 890000,
+    "OrderDate": "2023-01-30"
+  },
+  {
+    "OrderID": "ORD-1007",
+    "CustomerName": "Dewi Lestari",
+    "Status": "Completed",
+    "TotalPrice": 210500,
+    "OrderDate": "2023-11-12"
+  },
+  {
+    "OrderID": "ORD-1008",
+    "CustomerName": "Rizky Pratama",
+    "Status": "Cancelled",
+    "TotalPrice": 175000,
+    "OrderDate": "2023-03-04"
+  },
+  {
+    "OrderID": "ORD-1009",
+    "CustomerName": "Eko Prasetyo",
+    "Status": "Pending",
+    "TotalPrice": 950000,
+    "OrderDate": "2023-09-18"
+  },
+  {
+    "OrderID": "ORD-1010",
+    "CustomerName": "Lani Wijaya",
+    "Status": "Completed",
+    "TotalPrice": 1340000,
+    "OrderDate": "2023-06-25"
+  },
+  {
+    "OrderID": "ORD-1011",
+    "CustomerName": "Indra Kusuma",
+    "Status": "Pending",
+    "TotalPrice": 450000,
+    "OrderDate": "2023-02-14"
+  },
+  {
+    "OrderID": "ORD-1012",
+    "CustomerName": "Maya Sari",
+    "Status": "Completed",
+    "TotalPrice": 285000,
+    "OrderDate": "2023-04-10"
+  },
+  {
+    "OrderID": "ORD-1013",
+    "CustomerName": "Agus Setiawan",
+    "Status": "Cancelled",
+    "TotalPrice": 620000,
+    "OrderDate": "2023-07-19"
+  },
+  {
+    "OrderID": "ORD-1014",
+    "CustomerName": "Fajar Nugraha",
+    "Status": "Pending",
+    "TotalPrice": 1100000,
+    "OrderDate": "2023-12-05"
+  },
+  {
+    "OrderID": "ORD-1015",
+    "CustomerName": "Santi Susanti",
+    "Status": "Completed",
+    "TotalPrice": 530000,
+    "OrderDate": "2023-10-29"
+  },
+  {
+    "OrderID": "ORD-1016",
+    "CustomerName": "Nina Kartika",
+    "Status": "Pending",
+    "TotalPrice": 980000,
+    "OrderDate": "2023-08-01"
+  },
+  {
+    "OrderID": "ORD-1017",
+    "CustomerName": "Hendra Wijaya",
+    "Status": "Cancelled",
+    "TotalPrice": 420000,
+    "OrderDate": "2023-01-15"
+  },
+  {
+    "OrderID": "ORD-1018",
+    "CustomerName": "Wati Kurnia",
+    "Status": "Completed",
+    "TotalPrice": 1560000,
+    "OrderDate": "2023-05-20"
+  },
+  {
+    "OrderID": "ORD-1019",
+    "CustomerName": "Dedi Mulyadi",
+    "Status": "Pending",
+    "TotalPrice": 740000,
+    "OrderDate": "2023-09-02"
+  },
+  {
+    "OrderID": "ORD-1020",
+    "CustomerName": "Yuni Shara",
+    "Status": "Completed",
+    "TotalPrice": 2150000,
+    "OrderDate": "2023-11-28"
+  },
+  {
+    "OrderID": "ORD-1021",
+    "CustomerName": "Taufik Hidayat",
+    "Status": "Cancelled",
+    "TotalPrice": 310000,
+    "OrderDate": "2023-04-05"
+  },
+  {
+    "OrderID": "ORD-1022",
+    "CustomerName": "Anita Rahayu",
+    "Status": "Pending",
+    "TotalPrice": 880000,
+    "OrderDate": "2023-02-27"
+  },
+  {
+    "OrderID": "ORD-1023",
+    "CustomerName": "Surya Saputra",
+    "Status": "Completed",
+    "TotalPrice": 125000,
+    "OrderDate": "2023-07-12"
+  },
+  {
+    "OrderID": "ORD-1024",
+    "CustomerName": "Mega Utami",
+    "Status": "Pending",
+    "TotalPrice": 1950000,
+    "OrderDate": "2023-10-15"
+  },
+  {
+    "OrderID": "ORD-1025",
+    "CustomerName": "Gita Gutawa",
+    "Status": "Completed",
+    "TotalPrice": 670000,
+    "OrderDate": "2023-06-08"
+  },
+  {
+    "OrderID": "ORD-1026",
+    "CustomerName": "Raffi Ahmad",
+    "Status": "Cancelled",
+    "TotalPrice": 2400000,
+    "OrderDate": "2023-03-22"
+  },
+  {
+    "OrderID": "ORD-1027",
+    "CustomerName": "Nagita Slavina",
+    "Status": "Pending",
+    "TotalPrice": 3200000,
+    "OrderDate": "2023-12-30"
+  },
+  {
+    "OrderID": "ORD-1028",
+    "CustomerName": "Luna Maya",
+    "Status": "Completed",
+    "TotalPrice": 450000,
+    "OrderDate": "2023-01-10"
+  },
+  {
+    "OrderID": "ORD-1029",
+    "CustomerName": "Reza Rahadian",
+    "Status": "Pending",
+    "TotalPrice": 1200000,
+    "OrderDate": "2023-08-14"
+  },
+  {
+    "OrderID": "ORD-1030",
+    "CustomerName": "Dian Sastro",
+    "Status": "Completed",
+    "TotalPrice": 1750000,
+    "OrderDate": "2023-05-02"
+  }
+]
