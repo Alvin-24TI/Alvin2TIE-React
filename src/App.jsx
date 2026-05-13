@@ -20,12 +20,21 @@ import Register from "./pages/auth/Register";
 import Forgot from "./pages/auth/Forgot";
 
 
+// VISITOR
+import VisitorLayout from "./layouts/VisitorLayout";
+const Visitor = React.lazy(() => import("./pages/Visitor"));
+
 function App() {
 
 
   return (
     <Suspense fallback={<Loading />}>
       <Routes>
+
+        <Route element={<VisitorLayout />}>
+          <Route path="/visitor" element={<Visitor />} />
+        </Route>
+        
         <Route element={<MainLayouts />}>
           <Route path="*" element={<NotFound />} />
           <Route path="/" element={<Dashboard />} />
