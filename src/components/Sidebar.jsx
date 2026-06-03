@@ -1,5 +1,6 @@
 import { MdSpaceDashboard } from "react-icons/md";
 import { Link, NavLink } from "react-router-dom";
+import { MdFastfood } from "react-icons/md";
 
 export default function Sidebar() {
 
@@ -33,6 +34,13 @@ export default function Sidebar() {
                     </li>
                     <li>
                         <NavLink id="menu-3" to="/customers" className={menuClass} >Customers</NavLink>
+                    </li>
+                    <li>
+                        <NavLink
+                            id="menu-4" to="/products" className={menuClass}>
+                            <MdFastfood className="mr-4 text-xl" />
+                            Products
+                        </NavLink>
                     </li>
                 </ul>
             </div>
