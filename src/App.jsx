@@ -6,7 +6,10 @@ import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import PageHeader from "./components/PageHeader";
 import Loading from "./components/Loading";
-
+import AlertBox from "./components/AlertBox";
+import EmptyState from "./components/EmptyState";
+import GenericTable from "./components/GenericTable";
+import LoadingSpinner from "./components/LoadingSpinner";
 
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
 const Orders = React.lazy(() => import("./pages/Orders"));
@@ -14,6 +17,7 @@ const Customers = React.lazy(() => import("./pages/Customers"));
 const Products = React.lazy(() => import("./pages/Products"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
+const Notes = React.lazy(() => import("./pages/Notes"))
 
 import MainLayouts from "./layouts/MainLayouts";
 
@@ -46,6 +50,7 @@ function App() {
           <Route path="/customers" element={<Customers />} />
           <Route path="/products" element={<Products />} />
           <Route path="/products/:id" element={<ProductDetail />} />
+          <Route path="/Notes" element={<Notes />} />
         </Route>
 
         <Route element={<AuthLayout />}>
